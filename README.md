@@ -39,3 +39,8 @@ The Global Superstore dataset is a popular sample dataset often used for data an
 * Profit: Profit made on the order.
 
 This dataset is used to analyze sales performance, customer behavior, and other
+
+# null values - postal code - 41296
+# no duplicate values
+# filter and sort values
+# drop duplicates
